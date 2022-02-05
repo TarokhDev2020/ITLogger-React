@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "message": "External hard drive fixed",
+      "attension": false,
+      "tech": "Sam Smith",
+      "date": "2020-12-07T17:57:58.662Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Network problem in 004 section",
+      "attension": false,
+      "tech": "Bill Gates",
+      "date": "2020-12-07T17:59:59.464Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": "3",
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Bill",
+      "lastName": "Gates",
+      "id": "CefwejG"
+    }
+  ]
+}
